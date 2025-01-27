@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0001-two-sum) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
