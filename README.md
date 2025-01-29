@@ -7,12 +7,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0001-two-sum) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0012-integer-to-roman) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
 | ------- |
@@ -33,10 +35,19 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0005-longest-palindromic-substring) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0012-integer-to-roman) |
+## Greedy
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Prefix Sum
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
