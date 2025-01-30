@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0012-integer-to-roman) |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
