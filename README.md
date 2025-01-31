@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0018-4sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -47,6 +48,7 @@
 | [0016-3sum-closest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0015-3sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0018-4sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
