@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0027-remove-element) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -50,6 +51,7 @@
 | [0018-4sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0027-remove-element) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
