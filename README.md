@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0027-remove-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3429-special-array-i) |
