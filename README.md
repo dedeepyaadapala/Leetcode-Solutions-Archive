@@ -27,6 +27,7 @@
 | [0012-integer-to-roman](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
@@ -41,6 +42,7 @@
 | [0020-valid-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
