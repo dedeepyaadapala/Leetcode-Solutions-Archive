@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0031-next-permutation) |
 | [1364-tuple-with-same-product](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -67,6 +68,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0031-next-permutation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
