@@ -53,6 +53,7 @@
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
