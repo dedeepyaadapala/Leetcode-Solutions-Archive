@@ -1,24 +1,30 @@
 class Solution {
     public String removeOccurrences(String s, String part) {
-        int n1 = s.length();n2 = part.length();
-        if(n2 > n1) return s;
-        StringBuilder sb = new StringBuilder(s);
-        for(int i = 0;i < n1;i++){
-            if(s.charAt(i) == part.charAt(0)){
-                boolean flag = true;
-                for(int j = i+1;j < i+n2;j++){
-                    if((j < n1 && s.charAt(j) != part.charAt(j-i)) || j >= n1){
-                        flag = false;
-                        break;
-                    }
+        Stack<Character> s1 = new Stack<>();
+        Stack<Character> s2 = new Stack<>();
+        int m = s.length(),n = part.length();
+        for(int i = 0;i < m;i++){
+            char ch = s.charAt(i);
+            s1.push(ch);
+            int j = n-1;
+            while(!(s1.size() < j+1) && j >= 0 && s1.peek() == part.charAt(j)){
+                s2.push(s1.pop());
+                j--;
+            }
+            if(s2.size() == n){
+                while(!s2.isEmpty()){
+                    s2.pop();
                 }
-                if(flag){
-                    for(int j = i;j < i+n2;j++){
-                        sb.setCharAt(j,' ');
-                    }
+            }else{
+                while(!s2.isEmpty()){
+                    s1.push(s2.pop());
                 }
             }
         }
-        
+        StringBuilder sb = new StringBuilder();
+        while(!s1.isEmpty()){
+            sb.insert(0,s1.pop());
+        }
+        return sb.toString();
     }
 }
