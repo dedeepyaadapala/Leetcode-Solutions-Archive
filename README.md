@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0035-search-insert-position) |
+| [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [1364-tuple-with-same-product](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -37,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
