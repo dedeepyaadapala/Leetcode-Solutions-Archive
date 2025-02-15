@@ -5,7 +5,7 @@ class Solution {
             set.add(i);
         }
         int maxi = 0;
-        for(int i: nums){
+        for(int i: set){
             if(!set.contains(i-1)){
                 int x = i;
                 int cnt = 1;
