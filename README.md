@@ -69,6 +69,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -156,6 +157,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2802-find-the-punishment-number-of-an-integer) |
