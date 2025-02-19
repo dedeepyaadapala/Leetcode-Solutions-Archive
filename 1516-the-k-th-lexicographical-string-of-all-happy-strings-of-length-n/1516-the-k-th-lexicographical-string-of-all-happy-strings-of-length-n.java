@@ -4,11 +4,11 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         int[] x = new int[1];
         x[0] = k;
-        backtrack(n,x,sb,1,' ');
+        backtrack(n,x,sb,' ');
         return sb.toString();
     }
 
-    public boolean backtrack(int n,int[] k,StringBuilder sb,int idx,char prev){
+    public boolean backtrack(int n,int[] k,StringBuilder sb,char prev){
         if(sb.length() == n){
             k[0] -= 1;
             return k[0] == 0;
@@ -16,7 +16,7 @@ class Solution {
         for(char ch = 'a';ch <= 'c';ch++){
             if(ch != prev){
                 sb.append(ch);
-                if(backtrack(n,k,sb,idx+1,ch)) return true;
+                if(backtrack(n,k,sb,ch)) return true;
                 sb.deleteCharAt(sb.length()-1);
             }
         }
