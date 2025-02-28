@@ -77,6 +77,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -109,6 +110,7 @@
 | [0005-longest-palindromic-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Math
