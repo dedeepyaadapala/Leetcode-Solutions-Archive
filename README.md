@@ -29,6 +29,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -59,6 +60,7 @@
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
@@ -107,6 +109,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0031-next-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
