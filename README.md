@@ -132,6 +132,7 @@
 | [0013-roman-to-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0029-divide-two-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
