@@ -49,6 +49,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
+| [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -131,6 +133,7 @@
 | [0012-integer-to-roman](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0029-divide-two-integers) |
+| [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
