@@ -138,6 +138,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
