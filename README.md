@@ -37,6 +37,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -100,6 +101,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
