@@ -63,6 +63,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2107-find-unique-binary-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -97,6 +98,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2107-find-unique-binary-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
@@ -254,6 +256,7 @@
 | [1364-tuple-with-same-product](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
