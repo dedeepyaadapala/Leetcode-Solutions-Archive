@@ -17,15 +17,20 @@ class Solution {
 
     private static boolean isNice(int[] nums,int n,int k){
         int[] cnt = new int[32];
+        boolean isValid = true;
         for(int i = 0;i < k;i++){
             for(int bit = 0;bit < 31;bit++){
                 if((nums[i] & (1 << bit)) != 0){
                     cnt[bit]++;
                 }
+                if(cnt[bit] > 1){
+                    isValid = false;
+                }
             }
         }  
-        if(isWindowValid(cnt)) return true;
+        if(isValid) return true;
         for(int i = k;i < n;i++){
+            isValid = true;
             for(int bit = 0;bit < 31;bit++){
                 if((nums[i] & (1 << bit)) != 0){
                     cnt[bit]++;
@@ -33,17 +38,13 @@ class Solution {
                 if((nums[i-k] & (1 << bit)) != 0){
                     cnt[bit]--;
                 }
+                if(cnt[bit] > 1){
+                    isValid = false;
+                }
             }
-            if(isWindowValid(cnt)) return true;
+            if(isValid) return true;
         }  
         return false;      
-    }
-
-    private static boolean isWindowValid(int[] cnt){
-        for(int i = 0;i < 31;i++){
-            if(cnt[i] > 1) return false;
-        }
-        return true;
     }
 }
 
