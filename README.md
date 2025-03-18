@@ -32,6 +32,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2665-minimum-time-to-repair-cars) |
@@ -115,6 +116,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -275,6 +277,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0029-divide-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2478-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
