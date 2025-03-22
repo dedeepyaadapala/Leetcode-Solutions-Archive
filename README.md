@@ -316,6 +316,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
+| [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 ## Tree
 |  |
 | ------- |
@@ -325,10 +326,12 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
