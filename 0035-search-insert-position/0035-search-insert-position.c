@@ -18,5 +18,5 @@ int searchInsert(int* nums, int n, int target) {
             high = mid - 1;
         }
     }
-    return high;
+    return low;
 }
