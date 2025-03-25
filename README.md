@@ -49,6 +49,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3430-count-days-without-meetings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Trie
 |  |
 | ------- |
