@@ -28,6 +28,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2308-divide-array-into-equal-pairs) |
@@ -171,6 +172,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2649-count-total-number-of-colored-cells) |
@@ -210,6 +212,7 @@
 | [0018-4sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3430-count-days-without-meetings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3430-count-days-without-meetings) |
@@ -354,6 +357,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
