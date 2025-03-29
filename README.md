@@ -44,6 +44,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -182,6 +183,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -189,6 +191,7 @@
 | [0011-container-with-most-water](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0011-container-with-most-water) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Prefix Sum
 |  |
@@ -224,6 +227,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Trie
@@ -248,6 +252,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
@@ -366,6 +371,7 @@
 | ------- |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix
 |  |
 | ------- |
@@ -399,4 +405,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
