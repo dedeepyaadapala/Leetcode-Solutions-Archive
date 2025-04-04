@@ -24,21 +24,21 @@ class Solution {
         }
         Pair left = lca(root.left);
         Pair right = lca(root.right);
-        if(left.depth > right.depth){
-            return new Pair(left.root,left.depth+1);
+        if(left.height > right.height){
+            return new Pair(left.root,left.height+1);
         }
-        if(left.depth < right.depth){
-            return new Pair(right.root,right.depth+1);
+        if(left.height < right.height){
+            return new Pair(right.root,right.height+1);
         }
-        return new Pair(root,left.depth+1);
+        return new Pair(root,left.height+1);
     }
 }
 
 class Pair{
     TreeNode root;
-    int depth;
-    Pair(TreeNode root,int depth){
+    int height;
+    Pair(TreeNode root,int height){
         this.root = root;
-        this.depth = depth;
+        this.height = height;
     }
 }
