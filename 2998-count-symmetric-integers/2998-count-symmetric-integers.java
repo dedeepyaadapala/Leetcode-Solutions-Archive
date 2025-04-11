@@ -1,9 +1,9 @@
 class Solution {
     public int countSymmetricIntegers(int low, int high) {
         int cnt = 0;
+        int[] dig = new int[5];
         while(low <= high){
             int temp = low;
-            int[] dig = new int[5];
             int curr = 0;
             while(temp > 0){
                 dig[curr++] = temp % 10;
