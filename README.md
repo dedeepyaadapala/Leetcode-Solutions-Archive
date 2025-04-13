@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0416-partition-equal-subset-sum) |
@@ -180,6 +181,7 @@
 | [0045-jump-game-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
@@ -429,6 +431,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0063-unique-paths-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
