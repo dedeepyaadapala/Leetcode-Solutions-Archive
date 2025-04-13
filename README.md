@@ -200,6 +200,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
@@ -241,6 +242,7 @@
 | [0002-add-two-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0024-swap-nodes-in-pairs) |
+| [2050-count-good-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2050-count-good-numbers) |
 ## Sorting
 |  |
 | ------- |
