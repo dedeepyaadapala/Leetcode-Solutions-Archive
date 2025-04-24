@@ -229,6 +229,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -443,6 +444,7 @@
 | [1656-count-good-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2998-count-symmetric-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
