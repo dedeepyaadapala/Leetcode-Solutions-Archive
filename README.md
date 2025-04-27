@@ -21,6 +21,7 @@
 | [0059-spiral-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0213-house-robber-ii) |
@@ -204,6 +205,7 @@
 | [0063-unique-paths-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
