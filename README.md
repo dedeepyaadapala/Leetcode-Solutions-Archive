@@ -24,6 +24,7 @@
 | [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0416-partition-equal-subset-sum) |
@@ -235,6 +236,7 @@
 | [0029-divide-two-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0797-rabbits-in-forest) |
@@ -462,6 +464,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
@@ -471,6 +474,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2610-closest-prime-numbers-in-range) |
