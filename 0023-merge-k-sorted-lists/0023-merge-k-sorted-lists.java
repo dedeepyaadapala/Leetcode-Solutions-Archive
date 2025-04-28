@@ -10,38 +10,31 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists.length == 0){
-            return null; 
-        }
-        if(lists.length == 1){
-            return lists[0];
-        }
-        ListNode res = new ListNode(Integer.MIN_VALUE);
-        ListNode head = res;
-        int cnt = 0;
-        for(int i = 0;i < lists.length;i++){
-            if(lists[i] == null){
-                cnt += 1;
+        int n = lists.length;
+        if(n == 0) return null;
+        if(n == 1) return lists[0];
+        PriorityQueue<ListNode> lst = new PriorityQueue<>(new Comparator<ListNode>(){
+            @Override
+            public int compare(ListNode a,ListNode b){
+                return Integer.compare(a.val,b.val);
+            }
+        });
+        for(int i = 0;i < n;i++){
+            ListNode prev = null;
+            while(lists[i] != null){
+                lst.add(lists[i]);
+                prev = lists[i];
+                lists[i] = lists[i].next;
+                prev.next = null;
             }
         }
-        while(cnt != lists.length){
-            int mini = Integer.MAX_VALUE;
-            int ind = -1;
-            for(int i = 0;i < lists.length;i++){
-                if(lists[i] != null && lists[i].val <= mini){
-                    mini = lists[i].val;
-                    ind = i;
-                }
-            }
-            if(ind != -1){
-                head.next = lists[ind];
-                lists[ind] = lists[ind].next;
-                head = head.next;
-                if(lists[ind] == null){
-                    cnt += 1;
-                }
-            }
+        ListNode head = lst.peek();
+        ListNode th = null;
+        while(!lst.isEmpty()){
+            th = lst.poll();
+            if(!lst.isEmpty()) th.next = lst.peek();
+            th = th.next;
         }
-        return res.next;
+        return head;
     }
 }
