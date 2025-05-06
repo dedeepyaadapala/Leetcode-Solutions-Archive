@@ -46,6 +46,7 @@
 | [1364-tuple-with-same-product](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1656-count-good-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -187,6 +188,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2478-longest-nice-subarray) |
@@ -243,6 +245,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1170-shortest-common-supersequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2262-solving-questions-with-brainpower) |
