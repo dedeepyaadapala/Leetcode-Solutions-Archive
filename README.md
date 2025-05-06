@@ -54,6 +54,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -451,6 +452,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0059-spiral-matrix-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2470-removing-stars-from-a-string) |
