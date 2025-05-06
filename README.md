@@ -28,6 +28,7 @@
 | [0204-count-primes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
@@ -299,6 +300,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
