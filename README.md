@@ -98,6 +98,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -402,6 +403,7 @@
 | [2681-put-marbles-in-bags](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -543,6 +545,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -564,6 +567,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -574,6 +578,7 @@
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
