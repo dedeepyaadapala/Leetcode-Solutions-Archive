@@ -46,6 +46,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1364-tuple-with-same-product) |
@@ -445,6 +446,7 @@
 | [0162-find-peak-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
