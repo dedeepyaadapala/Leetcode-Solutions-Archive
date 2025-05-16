@@ -94,6 +94,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -201,6 +202,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2470-removing-stars-from-a-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
@@ -276,6 +278,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
