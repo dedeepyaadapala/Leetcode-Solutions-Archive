@@ -82,6 +82,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -314,6 +315,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2802-find-the-punishment-number-of-an-integer) |
