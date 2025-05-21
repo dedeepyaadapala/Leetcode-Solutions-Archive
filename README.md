@@ -21,6 +21,7 @@
 | [0059-spiral-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
@@ -127,6 +128,7 @@
 | [0012-integer-to-roman](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0208-implement-trie-prefix-tree) |
@@ -592,6 +594,7 @@
 | [0059-spiral-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2428-equal-row-and-column-pairs) |
