@@ -26,6 +26,7 @@
 | [0118-pascals-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0198-house-robber) |
@@ -344,6 +345,7 @@
 | [0011-container-with-most-water](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0605-can-place-flowers) |
