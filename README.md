@@ -199,6 +199,7 @@
 | [0768-partition-labels](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1170-shortest-common-supersequence) |
@@ -566,6 +567,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 ## Tree
