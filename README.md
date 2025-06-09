@@ -434,6 +434,7 @@
 | [0014-longest-common-prefix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Backtracking
 |  |
 | ------- |
