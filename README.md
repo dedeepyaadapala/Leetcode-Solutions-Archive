@@ -179,6 +179,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -532,6 +534,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
