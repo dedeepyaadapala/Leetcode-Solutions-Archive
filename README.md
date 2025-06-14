@@ -35,6 +35,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0416-partition-equal-subset-sum) |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -565,6 +567,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0208-implement-trie-prefix-tree) |
+| [0303-range-sum-query-immutable](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
