@@ -27,6 +27,7 @@
 | [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0198-house-robber) |
@@ -296,6 +297,7 @@
 | [0070-climbing-stairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
