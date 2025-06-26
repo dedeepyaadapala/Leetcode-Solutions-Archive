@@ -40,6 +40,7 @@
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0643-maximum-average-subarray-i) |
@@ -482,6 +483,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
@@ -504,6 +506,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search
 |  |
@@ -513,6 +516,7 @@
 | [0035-search-insert-position](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -585,6 +589,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
 ## Bucket Sort
@@ -729,10 +734,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Queue
 |  |
