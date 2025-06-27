@@ -37,6 +37,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
@@ -486,6 +487,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2280-count-good-triplets-in-an-array) |
@@ -520,6 +522,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0907-koko-eating-bananas) |
@@ -677,6 +680,7 @@
 | [0064-minimum-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
