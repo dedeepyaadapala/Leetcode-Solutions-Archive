@@ -45,6 +45,7 @@
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0747-min-cost-climbing-stairs) |
@@ -151,6 +152,7 @@
 | [0242-valid-anagram](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -435,6 +438,7 @@
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -549,6 +553,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1364-tuple-with-same-product) |
