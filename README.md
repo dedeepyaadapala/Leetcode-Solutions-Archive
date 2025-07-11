@@ -24,6 +24,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
@@ -206,6 +207,7 @@
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0242-valid-anagram) |
@@ -469,6 +471,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -634,6 +637,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -690,6 +694,7 @@
 | [0064-minimum-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1036-rotting-oranges) |
