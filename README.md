@@ -717,6 +717,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0175-combine-two-tables) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Queue
 |  |
