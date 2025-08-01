@@ -29,6 +29,7 @@
 | [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0162-find-peak-element) |
@@ -148,6 +149,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0229-majority-element-ii) |
@@ -209,6 +211,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0242-valid-anagram) |
@@ -307,6 +310,7 @@
 | [0070-climbing-stairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0213-house-robber-ii) |
@@ -465,6 +469,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -717,6 +722,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Database
 |  |
