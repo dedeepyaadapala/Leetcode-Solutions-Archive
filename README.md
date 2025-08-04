@@ -35,6 +35,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0215-kth-largest-element-in-an-array) |
@@ -642,6 +643,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1073-number-of-enclaves) |
@@ -663,6 +665,7 @@
 | ------- |
 | [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
@@ -680,6 +683,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
@@ -733,6 +737,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
