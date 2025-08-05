@@ -233,6 +233,7 @@
 | [0768-partition-labels](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0868-push-dominoes) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
@@ -403,6 +404,7 @@
 | [0605-can-place-flowers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0797-rabbits-in-forest) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -508,6 +510,7 @@
 | [0020-valid-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0503-next-greater-element-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
