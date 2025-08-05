@@ -49,6 +49,7 @@
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
@@ -506,6 +507,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0503-next-greater-element-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -800,6 +802,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0503-next-greater-element-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
