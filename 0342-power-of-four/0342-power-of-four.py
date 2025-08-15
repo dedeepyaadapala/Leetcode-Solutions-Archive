@@ -1,5 +1,6 @@
-class Solution(object):
-    def isPowerOfFour(self, n):
+class Solution:
+    def isPowerOfFour(self, n: int) -> bool:
+        
         """
         :type n: int
         :rtype: bool
@@ -10,3 +11,4 @@ class Solution(object):
             else:
                 if n > pow(4,i) and n < pow(4,i+1):
                     return False
+        return False
