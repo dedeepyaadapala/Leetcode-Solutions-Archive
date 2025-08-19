@@ -684,6 +684,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1450-delete-leaves-with-a-given-value) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -701,6 +702,7 @@
 | [1073-number-of-enclaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -732,6 +734,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Enumeration
 |  |
 | ------- |
