@@ -524,6 +524,7 @@
 | [0020-valid-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0503-next-greater-element-ii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -679,6 +680,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0102-binary-tree-level-order-traversal) |
 | [0257-binary-tree-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0257-binary-tree-paths) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -695,6 +697,7 @@
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
