@@ -696,6 +696,7 @@
 | [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
@@ -718,6 +719,7 @@
 | [0127-word-ladder](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
@@ -812,6 +814,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0801-is-graph-bipartite) |
@@ -826,6 +829,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
