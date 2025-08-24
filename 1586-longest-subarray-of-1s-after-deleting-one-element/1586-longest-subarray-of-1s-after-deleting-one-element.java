@@ -1,6 +1,5 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        ArrayList<Integer> lst = new ArrayList<>();
         int n = nums.length;
         int prev = 0,curr = 0,ans = 0;
         for(int i = 0;i < n;){
