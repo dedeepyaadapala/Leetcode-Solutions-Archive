@@ -80,6 +80,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1656-count-good-triplets) |
+| [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -552,6 +553,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -585,6 +587,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -676,6 +679,7 @@
 | [0801-is-graph-bipartite](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 ## Tree
@@ -710,6 +714,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -734,6 +739,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -789,6 +795,7 @@
 | [1036-rotting-oranges](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
