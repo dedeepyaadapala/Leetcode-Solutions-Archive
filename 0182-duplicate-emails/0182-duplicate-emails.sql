@@ -1,0 +1,1 @@
+select p.email from person p group by email having count(p.email) >= 2;
