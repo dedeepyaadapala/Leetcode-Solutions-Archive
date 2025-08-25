@@ -1,1 +1,5 @@
-select distinct(p.email) from person p where (select count(*) from person p1 where p.email = p1.email) > 1;
+select distinct p1.email 
+from person p1
+join person p2
+on p1.email = p2.email
+and p1.id != p2.id;
