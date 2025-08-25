@@ -816,6 +816,7 @@
 | [0176-second-highest-salary](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0178-rank-scores) |
+| [0182-duplicate-emails](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0182-duplicate-emails) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Queue
 |  |
