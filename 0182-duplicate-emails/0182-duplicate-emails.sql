@@ -1,1 +1,1 @@
-select p.email from person p group by email having count(p.email) >= 2;
+select distinct(p.email) from person p where (select count(*) from person p1 where p.email = p1.email) > 1;
