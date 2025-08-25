@@ -1,2 +1,4 @@
 # Write your MySQL query statement below
-select c.name as customers from customers c where not exists (select * from orders o where c.id = o.customerid); 
+select c.name as customers from customers c 
+left outer join orders o on c.id = o.customerid
+where o.id is null;
