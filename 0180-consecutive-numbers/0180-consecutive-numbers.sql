@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select distinct l1.num as consecutivenums from logs l1 where num = (select num from logs l2 where l2.id = l1.id + 1) and num = (select num from logs l3 where l3.id = l1.id + 2);
