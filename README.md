@@ -554,6 +554,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
@@ -709,6 +710,7 @@
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -734,6 +736,7 @@
 | [0542-01-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0820-find-eventual-safe-states) |
@@ -838,6 +841,7 @@
 | [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0820-find-eventual-safe-states) |
@@ -861,6 +865,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
