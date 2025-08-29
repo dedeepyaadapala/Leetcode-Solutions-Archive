@@ -1,6 +1,2 @@
-delete from person p where p.id not in(
-    select min(id) from (
-        select p1.id from person p1
-        where p.email = p1.email
-    ) as temp
-);
+DELETE p1 FROM Person p1 JOIN Person p2 ON p1.email = p2.email
+AND p1.id > p2.id;
