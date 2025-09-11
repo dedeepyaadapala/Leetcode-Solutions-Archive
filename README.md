@@ -261,6 +261,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -496,6 +497,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
