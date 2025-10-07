@@ -84,6 +84,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1656-count-good-triplets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -498,6 +499,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0900-reordered-power-of-2) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1675-magnetic-force-between-two-balls) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2215-finding-3-digit-even-numbers) |
@@ -612,6 +614,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2280-count-good-triplets-in-an-array) |
