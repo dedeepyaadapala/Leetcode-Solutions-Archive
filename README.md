@@ -248,6 +248,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1170-shortest-common-supersequence) |
+| [1321-get-equal-substrings-within-budget](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -284,6 +285,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0940-fruit-into-baskets) |
+| [1321-get-equal-substrings-within-budget](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -451,6 +453,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0303-range-sum-query-immutable) |
+| [1321-get-equal-substrings-within-budget](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1321-get-equal-substrings-within-budget) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -604,6 +607,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1321-get-equal-substrings-within-budget](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
