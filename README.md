@@ -256,6 +256,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2107-find-unique-binary-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2107-find-unique-binary-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -435,6 +436,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
