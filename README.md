@@ -543,6 +543,7 @@
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
