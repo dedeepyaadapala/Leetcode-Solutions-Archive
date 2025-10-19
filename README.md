@@ -424,6 +424,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3637-count-number-of-balanced-permutations) |
@@ -690,6 +691,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Design
 |  |
 | ------- |
@@ -959,4 +961,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0830-largest-triangle-area) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
