@@ -236,6 +236,7 @@
 | [0022-generate-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
@@ -560,6 +561,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0496-next-greater-element-i) |
