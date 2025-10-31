@@ -149,6 +149,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -217,6 +218,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -428,6 +430,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
