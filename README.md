@@ -292,6 +292,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
@@ -483,6 +484,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -694,6 +696,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
