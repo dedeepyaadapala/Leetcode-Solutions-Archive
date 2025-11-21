@@ -270,6 +270,7 @@
 | [1170-shortest-common-supersequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1170-shortest-common-supersequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -424,6 +425,7 @@
 | [1448-maximum-69-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1500-count-largest-group) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
