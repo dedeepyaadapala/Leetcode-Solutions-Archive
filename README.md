@@ -120,6 +120,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2536-increment-submatrices-by-one](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2536-increment-submatrices-by-one) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -496,6 +497,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2536-increment-submatrices-by-one](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2536-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3639-zero-array-transformation-i) |
@@ -889,6 +891,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2428-equal-row-and-column-pairs) |
+| [2536-increment-submatrices-by-one](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2536-increment-submatrices-by-one) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
