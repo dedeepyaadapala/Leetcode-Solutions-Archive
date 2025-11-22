@@ -141,6 +141,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -447,6 +448,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3243-count-the-number-of-powerful-integers) |
