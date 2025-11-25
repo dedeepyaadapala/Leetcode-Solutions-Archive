@@ -1,6 +1,5 @@
 class Solution {
     public int smallestRepunitDivByK(int k) {
-        HashSet<Integer> set = new HashSet<>();
         int n = 1;
         for(int i = 1;i <= k;i++){
             int rem = n % k;
