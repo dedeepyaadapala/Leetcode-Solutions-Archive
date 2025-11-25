@@ -196,6 +196,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -422,6 +423,7 @@
 | [0797-rabbits-in-forest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
