@@ -69,6 +69,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0967-minimum-falling-path-sum) |
+| [0969-pancake-sorting](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0969-pancake-sorting) |
 | [1036-rotting-oranges](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -345,6 +346,7 @@
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0868-push-dominoes) |
+| [0969-pancake-sorting](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0969-pancake-sorting) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -473,6 +475,7 @@
 | [0768-partition-labels](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0969-pancake-sorting](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0969-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -545,6 +548,7 @@
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0900-reordered-power-of-2) |
+| [0969-pancake-sorting](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0969-pancake-sorting) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1675-magnetic-force-between-two-balls) |
