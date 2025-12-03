@@ -685,6 +685,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0812-rotate-string) |
 ## Counting
 |  |
@@ -779,6 +780,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -801,6 +803,7 @@
 | [0257-binary-tree-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -852,6 +855,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0572-subtree-of-another-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1015,4 +1019,8 @@
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
