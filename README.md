@@ -58,6 +58,7 @@
 | [0542-01-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
@@ -473,6 +474,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0630-course-schedule-iii) |
 | [0768-partition-labels](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -548,6 +550,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0594-longest-harmonious-subsequence) |
+| [0630-course-schedule-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0630-course-schedule-iii) |
 | [0900-reordered-power-of-2](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0900-reordered-power-of-2) |
 | [0969-pancake-sorting](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0969-pancake-sorting) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -633,6 +636,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0451-sort-characters-by-frequency) |
+| [0630-course-schedule-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0630-course-schedule-iii) |
 | [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
