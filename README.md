@@ -47,6 +47,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0416-partition-equal-subset-sum) |
@@ -379,6 +380,7 @@
 | [0213-house-robber-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0416-partition-equal-subset-sum) |
@@ -807,6 +809,7 @@
 | [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
@@ -837,6 +840,7 @@
 | [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
@@ -904,6 +908,7 @@
 | [0130-surrounded-regions](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0967-minimum-falling-path-sum) |
@@ -926,6 +931,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Database
 |  |
@@ -955,6 +961,7 @@
 | [0133-clone-graph](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0801-is-graph-bipartite) |
@@ -973,6 +980,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
