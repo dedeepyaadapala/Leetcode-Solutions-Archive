@@ -437,6 +437,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1500-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
