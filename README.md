@@ -184,6 +184,7 @@
 | [0127-word-ladder](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0208-implement-trie-prefix-tree) |
@@ -527,6 +528,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0024-swap-nodes-in-pairs) |
+| [0138-copy-list-with-random-pointer](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
