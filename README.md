@@ -443,6 +443,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
@@ -884,6 +885,7 @@
 | [0204-count-primes](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
