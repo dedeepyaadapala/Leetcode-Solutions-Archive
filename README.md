@@ -159,6 +159,7 @@
 | [3483-alternating-groups-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -233,6 +234,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -581,6 +583,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3430-count-days-without-meetings) |
+| [3531-count-covered-buildings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3531-count-covered-buildings) |
 | [3647-zero-array-transformation-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3748-sort-matrix-by-diagonals) |
