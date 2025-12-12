@@ -1,13 +1,6 @@
 class Solution {
     public int minDifficulty(int[] jobDifficulty, int d) {
         int n = jobDifficulty.length;
-        // int maxi = 0;
-        // if(d == 1){
-        //     for(int i = 0;i < n;i++){
-        //         maxi = Math.max(maxi,jobDifficulty[i]);
-        //     }
-        //     return maxi;
-        // }
         int[][] dp = new int[n][d];
         for(int i = 0;i < n;i++) Arrays.fill(dp[i],-1);
         generatePossibilities(jobDifficulty,n,0,d-1,dp);
