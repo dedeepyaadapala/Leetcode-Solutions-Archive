@@ -79,6 +79,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1364-tuple-with-same-product](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -400,6 +401,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1170-shortest-common-supersequence) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
