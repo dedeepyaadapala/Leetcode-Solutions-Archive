@@ -11,16 +11,6 @@ class Solution {
         int[][] dp = new int[n][d];
         for(int i = 0;i < n;i++) Arrays.fill(dp[i],-1);
         generatePossibilities(jobDifficulty,n,0,d-1,dp);
-        // int ans = Integer.MAX_VALUE;
-        // for(int i = 0;i < n;i++){
-        //     for(int j = 0;j < d;j++){
-        //         System.out.print(dp[i][j] +" ");
-        //     }
-        //     System.out.println();
-        // }
-        // for(int i = 0;i < n;i++){
-        //     if(ans != -1 && ans < 1000000) ans = Math.min(ans,dp[i][d-1]);
-        // }
         return dp[0][d-1] == -1 || dp[0][d-1] >= 1000000  ? -1 : dp[0][d-1];
     }
 
