@@ -1,13 +1,13 @@
 class Solution {
     public int minDifficulty(int[] jobDifficulty, int d) {
         int n = jobDifficulty.length;
-        int maxi = 0;
-        if(d == 1){
-            for(int i = 0;i < n;i++){
-                maxi = Math.max(maxi,jobDifficulty[i]);
-            }
-            return maxi;
-        }
+        // int maxi = 0;
+        // if(d == 1){
+        //     for(int i = 0;i < n;i++){
+        //         maxi = Math.max(maxi,jobDifficulty[i]);
+        //     }
+        //     return maxi;
+        // }
         int[][] dp = new int[n][d];
         for(int i = 0;i < n;i++) Arrays.fill(dp[i],-1);
         generatePossibilities(jobDifficulty,n,0,d-1,dp);
@@ -15,16 +15,15 @@ class Solution {
     }
 
     private static int generatePossibilities(int[] jobs,int n,int idx,int days,int[][] dp){
-        
+        if(idx == n) return 1000000;
         if(days == 0){
             if(idx == n) return 1000000;
             int maxi = 0;
             for(int i = idx;i < n;i++){
                 maxi = Math.max(maxi,jobs[i]);
             }
-            return maxi;
+            return dp[idx][days] = maxi;
         }
-        if(idx == n) return 1000000;
 
         if(dp[idx][days] != -1) return dp[idx][days];
         int maxi = 0, sum = 1000000;
