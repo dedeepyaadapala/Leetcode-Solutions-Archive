@@ -153,6 +153,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -470,6 +471,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3433-count-mentions-per-user](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3433-count-mentions-per-user) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -583,6 +585,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3531-count-covered-buildings) |
 | [3647-zero-array-transformation-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -755,6 +758,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3433-count-mentions-per-user](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3511-find-the-winning-player-in-coin-game) |
