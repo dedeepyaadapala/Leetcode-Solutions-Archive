@@ -164,6 +164,7 @@
 | [3531-count-covered-buildings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -241,6 +242,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -310,6 +312,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3637-count-number-of-balanced-permutations) |
@@ -589,6 +592,7 @@
 | [3430-count-days-without-meetings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3606-coupon-code-validator) |
 | [3647-zero-array-transformation-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3748-sort-matrix-by-diagonals) |
