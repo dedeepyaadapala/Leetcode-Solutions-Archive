@@ -214,6 +214,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1500-count-largest-group) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -288,6 +289,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -500,6 +502,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -575,6 +578,7 @@
 | [0969-pancake-sorting](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0969-pancake-sorting) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1675-magnetic-force-between-two-balls) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
