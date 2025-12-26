@@ -140,6 +140,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -514,6 +515,7 @@
 | [2681-put-marbles-in-bags](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -593,6 +595,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3430-count-days-without-meetings) |
