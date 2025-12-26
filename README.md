@@ -305,6 +305,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -530,6 +531,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2536-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
