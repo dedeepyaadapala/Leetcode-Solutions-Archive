@@ -4,7 +4,7 @@ class Solution {
         for(int i = 0;i < len;i++) meetings[i][1]--;
         Arrays.sort(meetings,new Comparator<int[]>(){
             public int compare(int[] a,int[] b){
-                // if(a[0] == b[0]) return a[1] - b[1];
+                if(a[0] == b[0]) return a[1] - b[1];
                 return a[0] - b[0];
             }
         });
