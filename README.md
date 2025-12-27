@@ -118,6 +118,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2402-meeting-rooms-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2402-meeting-rooms-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
@@ -225,6 +226,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2308-divide-array-into-equal-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2402-meeting-rooms-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2448-count-number-of-bad-pairs) |
@@ -587,6 +589,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2215-finding-3-digit-even-numbers) |
+| [2402-meeting-rooms-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2681-put-marbles-in-bags) |
@@ -673,6 +676,7 @@
 | [0744-network-delay-time](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
+| [2402-meeting-rooms-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -769,6 +773,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2470-removing-stars-from-a-string) |
