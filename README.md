@@ -80,6 +80,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -710,6 +711,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1321-get-equal-substrings-within-budget](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1646-kth-missing-positive-number) |
@@ -956,6 +958,7 @@
 | [1036-rotting-oranges](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2343-count-unguarded-cells-in-the-grid) |
