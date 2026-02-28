@@ -458,6 +458,7 @@
 | [1500-count-largest-group](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1500-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1925-count-square-sum-triples) |
@@ -759,6 +760,7 @@
 | [0029-divide-two-integers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0342-power-of-four) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2308-divide-array-into-equal-pairs) |
@@ -769,6 +771,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/0059-spiral-matrix-ii) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dedeepyaadapala/Leetcode-Solutions-Archive/tree/master/2260-divide-a-string-into-groups-of-size-k) |
